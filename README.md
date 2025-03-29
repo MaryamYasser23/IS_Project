@@ -25,7 +25,7 @@ This project includes Power BI dashboards for data visualization. The reports pr
 
 ## Static Web News App
 A simple news website built using HTML, CSS, and JavaScript, providing a static platform for displaying news articles.
-**Features:**
+#### Features:
 - Responsive design
 - Simple and lightweight
 - Basic news listing functionality
